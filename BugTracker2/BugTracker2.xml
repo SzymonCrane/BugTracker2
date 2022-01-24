@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BugTracker2</name>
+    </assembly>
+    <members>
+        <member name="M:BugTracker2.Controllers.BugController.GetAsync(System.Int32)">
+            <summary>
+            Endpoint that will get you a list of available bugs.
+            </summary>
+            <param name="count">Number of bugs per page</param>
+            <param name="page">Page number</param>
+            <returns> </returns>
+        </member>
+    </members>
+</doc>
